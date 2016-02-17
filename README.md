@@ -1,0 +1,3 @@
+Basic Retrofit 2 sample application. Uses iTunes API for data. 
+
+Will be possible extended in future with a recyclerview...
